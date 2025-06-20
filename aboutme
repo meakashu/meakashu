@@ -1,7 +1,98 @@
-👋 Hi, I’m @meakashuu  
-- 👀 I’m interested in web development, Android app development, distributed systems, and gaming technology. I enjoy creating engaging user experiences and exploring innovative solutions in tech.  
-- 🌱 I’m currently learning advanced concepts in distributed systems, networking protocols, and game development strategies. I’m also focusing on improving mobile app efficiency and cloud computing.  
-- 💞️ I’m looking to collaborate on exciting projects in game development, web/mobile app design, and open-source contributions. Always open to connecting with fellow developers and creators.  
-- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/akash-kumar-singh-883377273/), or email me at meakash22dotin@gmail.com.  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’m a Gaming creator with 400K+ YouTube subscribers, and when I’m not coding or gaming, I’m working on my gaming and tech website, Dilwado.com.
+import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
+import { RocketIcon, GithubIcon, LinkedinIcon } from "lucide-react";
+import { motion } from "framer-motion";
+
+export default function GitUIProPortfolio() {
+  return (
+    <div className="p-6 bg-gradient-to-br from-gray-900 to-gray-800 min-h-screen text-white font-mono">
+      <motion.h1 
+        initial={{ y: -50, opacity: 0 }} 
+        animate={{ y: 0, opacity: 1 }} 
+        transition={{ duration: 0.8 }} 
+        className="text-5xl font-extrabold text-center text-lime-400 mb-10">
+        AKASH KUMAR SINGH - Pro Git UI/UX Dev ⚡🎮
+      </motion.h1>
+
+      <Tabs defaultValue="about" className="w-full">
+        <TabsList className="grid grid-cols-4 bg-gray-700 mb-6 rounded-xl">
+          <TabsTrigger value="about">🎯 About</TabsTrigger>
+          <TabsTrigger value="experience">🚀 Experience</TabsTrigger>
+          <TabsTrigger value="skills">🧠 Skills</TabsTrigger>
+          <TabsTrigger value="projects">🎮 Projects</TabsTrigger>
+        </TabsList>
+
+        <TabsContent value="about">
+          <Card className="bg-gray-800">
+            <CardContent className="p-6">
+              <p className="text-lg">📍 Ranchi, Jharkhand, India</p>
+              <p>📞 +91 7255003131</p>
+              <p>✉️ meakash22dotin@.com</p>
+              <div className="flex gap-4 mt-4">
+                <Button variant="secondary" size="sm"><LinkedinIcon className="mr-2" /> LinkedIn</Button>
+                <Button variant="secondary" size="sm"><GithubIcon className="mr-2" /> GitHub</Button>
+              </div>
+              <p className="mt-4">👨‍💻 Detail-oriented software developer aiming to level up through impactful internships and cool digital forensics.</p>
+            </CardContent>
+          </Card>
+        </TabsContent>
+
+        <TabsContent value="experience">
+          <Card className="bg-gray-800">
+            <CardContent className="space-y-4 p-6">
+              <div>
+                <h3 className="text-xl font-bold text-cyan-400">Founder & Tech Lead - Dilwado.com</h3>
+                <p>📱 Launched 3+ Android apps, boosted traffic 150% via SEO, and owned the UX game.</p>
+              </div>
+              <div>
+                <h3 className="text-xl font-bold text-yellow-300">YouTube Creator</h3>
+                <p>🎥 Built a 400K+ sub channel with 5M+ yearly views. Talk tech, play games, repeat!</p>
+              </div>
+              <div>
+                <h3 className="text-xl font-bold text-pink-400">Intern - XYZ Designs</h3>
+                <p>🎨 Supported UI/UX and front-end web development magic.</p>
+              </div>
+            </CardContent>
+          </Card>
+        </TabsContent>
+
+        <TabsContent value="skills">
+          <Card className="bg-gray-800">
+            <CardContent className="grid grid-cols-2 gap-4 p-6">
+              <div>
+                <h4 className="font-bold text-teal-300">Languages</h4>
+                <p>HTML5, CSS3, JavaScript, Python, SQL</p>
+              </div>
+              <div>
+                <h4 className="font-bold text-blue-300">UI/UX Tools</h4>
+                <p>Figma, Canva, Photoshop</p>
+              </div>
+              <div>
+                <h4 className="font-bold text-green-300">Web & CMS</h4>
+                <p>WordPress, Git, Responsive Design</p>
+              </div>
+              <div>
+                <h4 className="font-bold text-purple-300">Certifications</h4>
+                <p>GDSC, CSS Basics - HackerRank, Cybersecurity Workshop Host</p>
+              </div>
+            </CardContent>
+          </Card>
+        </TabsContent>
+
+        <TabsContent value="projects">
+          <Card className="bg-gray-800">
+            <CardContent className="space-y-3 p-6">
+              <p>🧪 <b>Metadata Extractor:</b> Auth-check via EXIF data.</p>
+              <p>🤖 <b>Chat With Akash:</b> Conversational AI bot using Gemini API.</p>
+              <p>📻 <b>AkashVaani:</b> Global radio powered by Radio Browser API.</p>
+              <p>🛡️ <b>YouTube Ad Blocker:</b> Chrome extension, zero ads.</p>
+              <p>📊 <b>CTR Calculator:</b> Tool to test YouTube thumbnail hook power.</p>
+              <p>🗜️ <b>Compress It:</b> Image optimizer to the rescue.</p>
+            </CardContent>
+          </Card>
+        </TabsContent>
+      </Tabs>
+    </div>
+  );
+}
