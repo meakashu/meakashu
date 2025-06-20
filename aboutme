@@ -1,98 +1,99 @@
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
-import { RocketIcon, GithubIcon, LinkedinIcon } from "lucide-react";
+import { Github, Linkedin, Mail, MapPin, Smartphone } from "lucide-react";
 import { motion } from "framer-motion";
 
 export default function GitUIProPortfolio() {
   return (
-    <div className="p-6 bg-gradient-to-br from-gray-900 to-gray-800 min-h-screen text-white font-mono">
-      <motion.h1 
-        initial={{ y: -50, opacity: 0 }} 
-        animate={{ y: 0, opacity: 1 }} 
-        transition={{ duration: 0.8 }} 
-        className="text-5xl font-extrabold text-center text-lime-400 mb-10">
-        AKASH KUMAR SINGH - Pro Git UI/UX Dev ⚡🎮
-      </motion.h1>
+    <div className="min-h-screen bg-gradient-to-tr from-gray-950 via-black to-gray-900 p-6 text-white font-sans">
+      <motion.div initial={{ opacity: 0, y: -40 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 1 }}>
+        <h1 className="text-4xl md:text-6xl font-bold text-center text-lime-300 drop-shadow-lg mb-4">
+          AKASH KUMAR SINGH
+        </h1>
+        <p className="text-center text-gray-400 text-lg">🎮 Pro Git UI/UX Developer | Fun, Functional, Futuristic</p>
+      </motion.div>
 
-      <Tabs defaultValue="about" className="w-full">
-        <TabsList className="grid grid-cols-4 bg-gray-700 mb-6 rounded-xl">
-          <TabsTrigger value="about">🎯 About</TabsTrigger>
-          <TabsTrigger value="experience">🚀 Experience</TabsTrigger>
-          <TabsTrigger value="skills">🧠 Skills</TabsTrigger>
-          <TabsTrigger value="projects">🎮 Projects</TabsTrigger>
-        </TabsList>
+      <motion.div className="mt-10" initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.5, duration: 1 }}>
+        <Tabs defaultValue="about">
+          <TabsList className="grid grid-cols-4 gap-2 bg-gray-800/70 rounded-xl p-2 mb-6">
+            <TabsTrigger value="about">🧑‍🚀 About</TabsTrigger>
+            <TabsTrigger value="experience">📜 Experience</TabsTrigger>
+            <TabsTrigger value="skills">🛠️ Skills</TabsTrigger>
+            <TabsTrigger value="projects">🚧 Projects</TabsTrigger>
+          </TabsList>
 
-        <TabsContent value="about">
-          <Card className="bg-gray-800">
-            <CardContent className="p-6">
-              <p className="text-lg">📍 Ranchi, Jharkhand, India</p>
-              <p>📞 +91 7255003131</p>
-              <p>✉️ meakash22dotin@.com</p>
-              <div className="flex gap-4 mt-4">
-                <Button variant="secondary" size="sm"><LinkedinIcon className="mr-2" /> LinkedIn</Button>
-                <Button variant="secondary" size="sm"><GithubIcon className="mr-2" /> GitHub</Button>
-              </div>
-              <p className="mt-4">👨‍💻 Detail-oriented software developer aiming to level up through impactful internships and cool digital forensics.</p>
-            </CardContent>
-          </Card>
-        </TabsContent>
+          <TabsContent value="about">
+            <Card className="bg-gray-900 border-lime-400 border shadow-xl">
+              <CardContent className="p-6 space-y-3">
+                <p className="flex items-center gap-2"><MapPin size={18}/> Ranchi, Jharkhand, India</p>
+                <p className="flex items-center gap-2"><Smartphone size={18}/> +91 7255003131</p>
+                <p className="flex items-center gap-2"><Mail size={18}/> meakash22dotin@.com</p>
+                <div className="flex gap-4 mt-2">
+                  <Button variant="secondary" size="sm"><Linkedin className="mr-2" /> LinkedIn</Button>
+                  <Button variant="secondary" size="sm"><Github className="mr-2" /> GitHub</Button>
+                </div>
+                <p className="mt-4 text-md text-gray-300">💡 Detail-oriented software developer with passion for front-end magic and cyber wizardry. Ready to learn, lead, and level up!</p>
+              </CardContent>
+            </Card>
+          </TabsContent>
 
-        <TabsContent value="experience">
-          <Card className="bg-gray-800">
-            <CardContent className="space-y-4 p-6">
-              <div>
-                <h3 className="text-xl font-bold text-cyan-400">Founder & Tech Lead - Dilwado.com</h3>
-                <p>📱 Launched 3+ Android apps, boosted traffic 150% via SEO, and owned the UX game.</p>
-              </div>
-              <div>
-                <h3 className="text-xl font-bold text-yellow-300">YouTube Creator</h3>
-                <p>🎥 Built a 400K+ sub channel with 5M+ yearly views. Talk tech, play games, repeat!</p>
-              </div>
-              <div>
-                <h3 className="text-xl font-bold text-pink-400">Intern - XYZ Designs</h3>
-                <p>🎨 Supported UI/UX and front-end web development magic.</p>
-              </div>
-            </CardContent>
-          </Card>
-        </TabsContent>
+          <TabsContent value="experience">
+            <Card className="bg-gray-900 border-cyan-400 border shadow-xl">
+              <CardContent className="space-y-5 p-6">
+                <div>
+                  <h3 className="text-xl font-bold text-cyan-300">💼 Founder & Tech Lead @ Dilwado.com</h3>
+                  <p>🚀 Released 3+ Android apps | Boosted traffic by 150% | Designed killer UX</p>
+                </div>
+                <div>
+                  <h3 className="text-xl font-bold text-yellow-300">🎥 YouTube Creator</h3>
+                  <p>🔥 400K+ subscribers | 5M+ yearly views | Gaming, tech, and awesome facts</p>
+                </div>
+                <div>
+                  <h3 className="text-xl font-bold text-pink-400">🎨 Intern @ XYZ Designs</h3>
+                  <p>🎯 Supported UI/UX upgrades | Built with React and passion</p>
+                </div>
+              </CardContent>
+            </Card>
+          </TabsContent>
 
-        <TabsContent value="skills">
-          <Card className="bg-gray-800">
-            <CardContent className="grid grid-cols-2 gap-4 p-6">
-              <div>
-                <h4 className="font-bold text-teal-300">Languages</h4>
-                <p>HTML5, CSS3, JavaScript, Python, SQL</p>
-              </div>
-              <div>
-                <h4 className="font-bold text-blue-300">UI/UX Tools</h4>
-                <p>Figma, Canva, Photoshop</p>
-              </div>
-              <div>
-                <h4 className="font-bold text-green-300">Web & CMS</h4>
-                <p>WordPress, Git, Responsive Design</p>
-              </div>
-              <div>
-                <h4 className="font-bold text-purple-300">Certifications</h4>
-                <p>GDSC, CSS Basics - HackerRank, Cybersecurity Workshop Host</p>
-              </div>
-            </CardContent>
-          </Card>
-        </TabsContent>
+          <TabsContent value="skills">
+            <Card className="bg-gray-900 border-green-400 border shadow-xl">
+              <CardContent className="grid grid-cols-1 md:grid-cols-2 gap-6 p-6">
+                <div>
+                  <h4 className="font-bold text-green-300">👨‍💻 Languages</h4>
+                  <p>HTML5, CSS3, JavaScript, Python, SQL</p>
+                </div>
+                <div>
+                  <h4 className="font-bold text-blue-300">🎨 UI/UX Tools</h4>
+                  <p>Figma, Canva, Photoshop</p>
+                </div>
+                <div>
+                  <h4 className="font-bold text-yellow-300">🌍 Web & CMS</h4>
+                  <p>WordPress, Git, Responsive Design</p>
+                </div>
+                <div>
+                  <h4 className="font-bold text-purple-300">🏆 Certifications</h4>
+                  <p>GDSC Head | CSS Certified | Cybersecurity Workshop Host</p>
+                </div>
+              </CardContent>
+            </Card>
+          </TabsContent>
 
-        <TabsContent value="projects">
-          <Card className="bg-gray-800">
-            <CardContent className="space-y-3 p-6">
-              <p>🧪 <b>Metadata Extractor:</b> Auth-check via EXIF data.</p>
-              <p>🤖 <b>Chat With Akash:</b> Conversational AI bot using Gemini API.</p>
-              <p>📻 <b>AkashVaani:</b> Global radio powered by Radio Browser API.</p>
-              <p>🛡️ <b>YouTube Ad Blocker:</b> Chrome extension, zero ads.</p>
-              <p>📊 <b>CTR Calculator:</b> Tool to test YouTube thumbnail hook power.</p>
-              <p>🗜️ <b>Compress It:</b> Image optimizer to the rescue.</p>
-            </CardContent>
-          </Card>
-        </TabsContent>
-      </Tabs>
+          <TabsContent value="projects">
+            <Card className="bg-gray-900 border-red-400 border shadow-xl">
+              <CardContent className="space-y-4 p-6">
+                <p>🔍 <b>Metadata Extractor:</b> Validate image authenticity via EXIF metadata</p>
+                <p>🤖 <b>Chat With Akash:</b> AI bot powered by Gemini API</p>
+                <p>📡 <b>AkashVaani:</b> Stream global radio stations</p>
+                <p>⛔ <b>YouTube Ad Blocker:</b> Watch without interruptions</p>
+                <p>🎯 <b>CTR Calculator:</b> Maximize thumbnail engagement</p>
+                <p>🗜️ <b>Compress It:</b> Optimize images like a pro</p>
+              </CardContent>
+            </Card>
+          </TabsContent>
+        </Tabs>
+      </motion.div>
     </div>
   );
 }
