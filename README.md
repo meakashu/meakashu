@@ -1,81 +1,158 @@
-<!-- 🖼️ Header Image --> <p align="center"> <img src="https://avatars.githubusercontent.com/u/186732216?v=4" width="150" alt="Akash Profile Pic" /> </p> <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hey+I'm+Akash+Kumar+Singh!;Founder+%40+Dilwado.com+%7C+400K%2B+Subs+%7C+SEO+Ninja;Web+%2F+Android+Dev+%7C+Prompt+Engineer+%7C+Dev+Mentor" alt="Typing SVG"> </h1> <p align="center"> <a href="https://github.com/meakshu"> <img src="https://komarev.com/ghpvc/?username=meakshu&label=Profile+Views&color=brightgreen&style=flat-square" alt="GitHub views" /> </a> <a href="mailto:meakash22dotin@gmail.com"> <img src="https://img.shields.io/badge/Email-meakash22dotin@gmail.com-red?style=flat-square&logo=gmail" alt="Email" /> </a> <a href="https://linkedin.com/in/your-link"> <img src="https://img.shields.io/badge/LinkedIn-Akash_Kumar_Singh-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /> </a> <a href="https://youtube.com/@yourchannel"> <img src="https://img.shields.io/badge/YouTube-TITU_VERSE-red?style=flat-square&logo=youtube" alt="YouTube" /> </a> </p>
-🌟 About Me
-Hi, I'm Akash Kumar Singh — a multi-faceted tech creator from Ranchi 🇮🇳 with a passion for building impactful digital tools, content, and communities.
+<h1 align="center">Hi, I'm Akash Kumar Singh 👋</h1>
 
-🚀 Founder @ Dilwado.com
+<h3 align="center">
+  🚀 Founder @ Dilwado.com | 👨‍💻 Tech Lead @ TL22 Dev | 🎥 400K+ YouTube Family | AI & Web Dev | Prompt Engineer
+</h3>
 
-📱 Android & Web Developer | 🎨 UI/UX Wizard
+<p align="center">
+  <a href="https://www.linkedin.com/in/akash-kumar-singh-883377273/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/me.akashuu/">
+    <img src="https://img.shields.io/badge/Instagram-Personal-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="https://www.instagram.com/aka.titanium/">
+    <img src="https://img.shields.io/badge/Instagram-Titanium-purple?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="https://www.facebook.com/TitaniumLegends22">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:meakash22dotin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-📈 SEO Strategist | 🧠 Prompt Engineer
+---
 
-🎥 YouTube Creator (400K+ subs, 13M+ views)
+<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/images/gifs/Developer.gif" width="300"/>
 
-✍️ Authoring Prompt Engineering Mastery
+### 👨‍💻 About Me
 
-🛠️ Tech Stack
-bash
-Copy
-Edit
-Languages:     HTML5 | CSS3 | JavaScript | Python | Java | C# | Kotlin
-Frameworks:    Node.js | Express | OpenCV | MediaPipe | Pygame
-Tools:         VS Code | Android Studio | Git | Canva | Photoshop | WordPress
-Specialties:   Web Dev | Android Apps | SEO | UI/UX | Prompt Engineering
-🚀 Projects & Tools
-Project	Description
-GhostPen	Gesture-based drawing tool using MediaPipe + Pygame
-Akash Dictionary	Emotional meaning finder powered by FreeDictionary API
-Smart Google Search Tool	Power search for devs with advanced operators
-Akashवाणी	Lo-fi radio website with a nostalgic interface
-Font2Frame	Text-to-image art via Hugging Face APIs
-Compresss It	PNG/JPG/WebP/SVG image compression utility
-Do It Akash	Productivity-focused To-Do app built with Node.js
-Chat With Akash	Chatbot powered by Gemini API
-Barcore	QR code scanner & redirector – Play Store app
-WallIT & YouPlay	Wallpaper & video streaming Android apps
-UTHOOB	YouTube bot to auto-repeat selected videos
+Hi! I'm **Akash**, a tech entrepreneur and full-stack developer from **Ranchi, India** 🇮🇳  
+🔧 I build apps, tools & AI projects while running a content empire  
+📚 Authoring **Prompt Engineering Mastery** (Beginner-friendly AI book)  
+💡 Founder of [Dilwado.com](https://dilwado.com) — Free certifications & internships  
+🎓 Final Year BCA @ Sarala Birla University
 
-🎓 Education & Certifications
-📘 Education
-🎓 BCA, Sarala Birla University (2021–2024)
+---
 
-🧬 Intermediate Bio-Science, Loyola Convent School (2009–2021)
+### 💻 My Skills
 
-🧾 Certifications
-✅ Prompt Engineering – LinkedIn Learning (2025)
+**Languages:**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
 
-✅ Java Programming – NPTEL IIT-KGP (Elite + Silver)
+**Platforms & Tools:**  
+Android Studio · WordPress · OpenCV · MediaPipe · Hugging Face · OpenAI APIs · Google Gemini
 
-✅ Google Ads – Google Skillshop (2024)
+---
 
-✅ CSS & C# – HackerRank (2024)
+### 🚀 Projects You’ll Love
 
-✅ AWSome Day, Canva, Google Play Console Certified
+- 🎨 **GhostPen** – AI air-drawing with MediaPipe & OpenCV  
+- 📖 **Akash Dictionary** – Emotional definitions via FreeDictionary API  
+- 🔍 **Smart Google Search Tool** – Dev query optimizer  
+- 📻 **Akashवाणी** – Retro radio with lo-fi tunes  
+- 🖼️ **Font2Frame** – Convert text → image using Hugging Face  
+- 🗜️ **Compresss It** – Image optimizer (JPG, PNG, SVG, WebP)  
+- ✅ **Do It Akash** – Productivity To-Do Web App  
+- 🤖 **Chat With Akash** – Gemini AI chatbot  
+- 📱 **Barcore** – QR Scanner App (Play Store release soon)  
+- 🎮 **WallIT & YouPlay** – Android apps live on Play Store  
+- 🔁 **UTHOOB** – YouTube video replay bot
 
-💼 Professional Experience
-👨‍💻 Founder & Tech Lead, Dilwado.com — SEO, app development, WordPress setups
+---
 
-📹 YouTube Creator — 400K+ subscribers | 13M+ views | 500K+ likes
+### 📜 Education
 
-🔍 SEO Intern, Prabhat Khabar Digital — Increased traffic by 20%
+🎓 **BCA**, Sarala Birla University, Ranchi (2021–2024)  
+🏫 **Intermediate in Bio-Science**, Loyola Convent School (2009–2021)
 
-🎨 UI/UX Intern, XYZ Designs — Retail & modular UI systems
+---
 
-📢 GDSC Head, SBU — Event management, campaigns, and social presence
+### 🏅 Certifications
 
-🏆 Achievements
-🏅 Winner (₹31,000) – Best Reel @ SBU Campus Fest 2024
+- Prompt Engineering – *LinkedIn Learning (2025)*  
+- Java (Elite + Silver) – *NPTEL IIT Kharagpur*  
+- Google Ads & Play Listing – *Skillshop / Play Academy*  
+- C#, CSS – *HackerRank*  
+- Canva & AWSome Day – *Canva & Amazon*
 
-🎤 Released first rap: Choro Hatao
+---
 
-🛡️ Organized Cybersecurity Awareness Workshop
+### 💼 Experience
 
-🎮 Hosted Omen Valorant Campus Tournament (2024)
+**💡 Dilwado.com** – Founder & Tech Lead  
+Built 3+ Android apps | Achieved AdSense after 14 attempts | SEO Growth
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=meakshu&show_icons=true&theme=radical" width="48%" /> <img src="https://streak-stats.demolab.com?user=meakshu&theme=radical" width="48%" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meakshu&theme=github_dark" /> </p>
-💬 Fun Fact
-I created Akashवाणी to recreate chai-and-lo-fi evenings from my childhood.
-When not coding, I’m editing videos, crafting content, or writing rap poetry.
+**📹 YouTube Creator** – 4 Channels | 400K+ Community  
+13.7M+ views, 526K+ likes, 475K+ comments
 
-📬 Let’s Connect
-<p align="center"> <a href="mailto:meakash22dotin@gmail.com"> <img src="https://img.shields.io/badge/Email-meakash22dotin@gmail.com-red?style=for-the-badge&logo=gmail" /> </a> <a href="https://linkedin.com/in/your-link"> <img src="https://img.shields.io/badge/LinkedIn-Akash-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/meakshu"> <img src="https://img.shields.io/badge/GitHub-meakshu-black?style=for-the-badge&logo=github" /> </a> <a href="https://youtube.com/@yourchannel"> <img src="https://img.shields.io/badge/YouTube-TITU_VERSE-red?style=for-the-badge&logo=youtube" /> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p>
+**🧪 SEO Intern**, Prabhat Khabar (2024)  
++20% traffic growth via technical SEO  
+
+**📢 GDSC SBU** – Social Media Lead  
+Grew developer engagement campaigns
+
+---
+
+### 🏆 Achievements
+
+🏅 Best Reel – ₹31,000 prize at SBU (2024)  
+🎤 Released Hindi rap song: *Choro Hatao – Titanium On Mic*  
+🛡️ Organized Cyber Security Workshop & Valorant Campus Quest  
+
+---
+
+### 🎥 My YouTube Channels
+
+| Channel Name              | Focus              | Link                                                 |
+|---------------------------|---------------------|------------------------------------------------------|
+| **Titanium Legends**      | Gaming              | [Watch Now](https://www.youtube.com/@TitaniumLegends) |
+| **Titanium OP**           | Shorts & Comedy     | [Watch Now](https://www.youtube.com/@titaniumop)      |
+| **Titanium Ji Technical** | Tech & Tutorials    | [Watch Now](https://www.youtube.com/@titaniumjitechnical) |
+| **Fact It**               | Facts & Curiosity   | [Watch Now](https://www.youtube.com/@Factit2)         |
+
+---
+
+### 📊 GitHub Stats (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gruvbox&border_radius=15" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&area=true&hide_border=false" width="95%" />
+</p>
+
+---
+
+### 📬 Contact Me
+
+📧 Email: [meakash22dotin@gmail.com](mailto:meakash22dotin@gmail.com)  
+📞 Phone: +91 7255003131  
+🔗 [LinkedIn](https://www.linkedin.com/in/akash-kumar-singh-883377273/)  
+📷 [Instagram (Personal)](https://www.instagram.com/me.akashuu/)  
+📷 [Instagram (Titanium)](https://www.instagram.com/aka.titanium/)  
+📘 [Facebook: Titanium Legends](https://www.facebook.com/TitaniumLegends22)
+
+---
+
+### 🤩 Fun Fact
+
+> I built **Akashवाणी**, a nostalgic lo-fi radio to relive chai & cartoon evenings.  
+> When I'm not coding, I'm dreaming up poetic AI prompts & gaming like a legend. 🧠🎧🎮
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="450"/>
+</p>
