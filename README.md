@@ -1,97 +1,37 @@
-<!-- Banner -->
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/186732216?v=4" width="100%" alt="banner">
+  <img src="https://avatars.githubusercontent.com/u/186732216?v=4" width="200px" alt="Akash Profile Picture" />
 </p>
 
-<h1 align="center">Hi there 👋 I'm Akash Kumar Singh</h1>
+<h1 align="center">Hey there 👋 I'm <span style="color:#f39c12;">Akash Kumar Singh</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=🎮+Pro+Git+UI%2FUX+Developer;🚀+Tech+Creator;🎓+MCA+@+Sarala+Birla+University" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  📍 Ranchi, Jharkhand | 📫 <a href="mailto:meakash22dotin@.com">meakash22dotin@.com</a>  
-  <br>
-  <a href="https://linkedin.com/in/your-link">LinkedIn</a> • 
-  <a href="https://github.com/meakshu">GitHub</a>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-🎯 I'm a **detail-oriented developer** passionate about building slick front-end experiences and diving deep into **cybersecurity** & **digital forensics**.  
-🎨 Merging **tech + design + fun** to build engaging web experiences.
-
----
-
-### 🚀 Experience Highlights
-
-- 🧠 **Founder & Tech Lead @ Dilwado.com** – Launched 3+ Android apps, 150% SEO improvement, rich UI/UX.
-- 🎬 **YouTube Creator** – 400K+ subs | 5M+ yearly views | Gaming, Tech, Brain Buzz.
-- 💼 **Intern @ XYZ Designs** – Enhanced UI/UX with React + Figma/Canva.
-
----
-
-### 🧠 Technical Arsenal
-
-![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-- **Languages:** HTML5, CSS3, JS, Python, SQL  
-- **UI/UX Tools:** Figma, Canva, Photoshop  
-- **Web:** WordPress, Git, Responsive Design  
-- **Certifications:** GDSC Head, CSS (HackerRank), Cybersecurity Workshop Host
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔍 **Metadata Extractor** | EXIF image data tool for forensic analysis |
-| 🤖 **Chat With Akash** | Conversational bot using Gemini API |
-| 📻 **AkashVaani** | Live internet radio streaming app |
-| 🛡️ **YouTube Ad Blocker** | Chrome extension for ad-free videos |
-| 📊 **Thumbnail CTR Calculator** | Boost visual click-through |
-| 🗜️ **Compress It** | Lightweight image compression tool |
-
----
-
-### 🔥 Currently Working On
-
-- ✨ Building next-gen **developer portfolio themes**  
-- 🧠 Exploring **AI-powered design workflows**  
-- 📹 Educating creators on **web tools & Git mastery**
-
----
-
-### 💬 Ask Me About
-
-`Git` • `Frontend Design` • `SEO for Creators` • `UI/UX` • `WordPress Tricks`
-
----
-
-### ⚡ Fun Fact
-
-> I once built a **CTR testing tool** to find out which face expression on a YouTube thumbnail made people click more. 😄
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meakshu&show_icons=true&theme=tokyonight" alt="Akash's GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meakshu&theme=tokyonight" alt="GitHub Streak" height="165">
+  🎯 Founder @ Dilwado.com • Tech Lead @ TL22 Dev  
+  🎮 YouTuber (400K+) • Full-Stack & Android Dev • SEO Expert  
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=meakshu&theme=react-dark" alt="GitHub Activity Graph">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Developer+%7C+Creator+%7C+Entrepreneur;Web+%2B+Android+Dev+is+Life;WordPress+%7C+OpenCV+%7C+Social+Hustler" alt="Typing SVG" />
 </p>
 
 ---
 
-<p align="center">
-  🛠️ Built with ❤️ by Akash using Markdown magic + gaming vibes 🎮
-</p>
+### 🚀 About Me
+
+Hi, I'm **Akash** – a passionate **developer**, **content creator**, and **tech entrepreneur** from Ranchi 🇮🇳.
+
+- 🧠 I build user-focused digital products and fun experiments  
+- 📱 Founder of **Dilwado.com** with apps on Play Store  
+- 🎥 **YouTube Creator** – Gaming, Tutorials & Tech (400K+ subs)  
+- 📈 SEO + Web Wizard – from WordPress magic to Google rankings  
+- 🧑‍🏫 I believe in *learning, sharing, and building cool stuff together*
+
+---
+
+### 🔧 Tech Toolbox
+
+```plaintext
+💻 Languages: HTML5 • CSS3 • JavaScript • Python • Java • C# • Kotlin
+🧩 Frameworks: Node.js • Express • Pygame • MediaPipe • OpenCV
+🛠️ Tools: Android Studio • WordPress • VS Code • Git • Canva • Photoshop
+🎯 Focus Areas: Web Dev • Android Apps • SEO • UI/UX • Esports • YouTube
