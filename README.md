@@ -123,16 +123,16 @@ Grew developer engagement campaigns
 ### 📊 GitHub Stats (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gruvbox&border_radius=15" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meakashu&show_icons=true&theme=gruvbox&border_radius=15" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=meakashu&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meakashu&layout=compact&theme=radical" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&area=true&hide_border=false" width="95%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=meakashu&theme=dracula&area=true&hide_border=false" width="95%" />
 </p>
 
 ---
