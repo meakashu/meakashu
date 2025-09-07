@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Akash+Kumar+Singh+%F0%9F%91%8B;Tech+Entrepreneur+%26+Full-Stack+Developer;Dilwado.com+Founder+%26+CEO;400K%2B+YouTube+Creator;Google+Student+Ambassador;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
+  <h1>Hi there, I'm Akash Kumar Singh 👋</h1>
+  <h3>🚀 Tech Entrepreneur & Full-Stack Developer | Dilwado.com Founder & CEO | 400K+ YouTube Creator | Google Student Ambassador</h3>
 </div>
 
 <div align="center">
@@ -36,18 +37,18 @@
 ## 🎯 **About Me**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" height="300" />
+  <h2>💻 Developer & Entrepreneur</h2>
+</div>
+
+<div align="center">
+  <h2>🎯 About Me</h2>
+  <p><strong>Passionate Tech Entrepreneur from Ranchi, India</strong></p>
+  <p>Building Innovative Solutions for Education | 400K+ YouTube Community Builder | AI/ML Enthusiast & Full-Stack Developer</p>
 </div>
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Passionate+Tech+Entrepreneur+from+Ranchi%2C+India;Building+Innovative+Solutions+for+Education;400K%2B+YouTube+Community+Builder;AI%2FML+Enthusiast+%26+Full-Stack+Developer;Making+Technology+Accessible+to+Everyone" alt="About Me" />
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <hr>
   
 </div>
 
@@ -55,7 +56,7 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <hr>
   
 </div>
 
@@ -66,7 +67,7 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="200" height="200" />
+        <h3>🚀 What I Do</h3>
       </td>
       <td align="center" width="50%">
         <ul align="left">
@@ -86,13 +87,15 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+technology+that+makes+education+accessible;One+line+of+code+at+a+time;Empowering+students+through+innovation;Creating+impact+with+technology" alt="Mission" />
+  <h3>🎯 My Mission</h3>
+  <p><strong>Building technology that makes education accessible</strong></p>
+  <p>One line of code at a time | Empowering students through innovation | Creating impact with technology</p>
   
 </div>
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <hr>
   
 </div>
 
@@ -102,13 +105,15 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%26+AI+Enthusiast;Building+with+Modern+Technologies;Creating+Innovative+Solutions;Always+Learning+%26+Growing" alt="Tech Stack" />
+  <h2>🛠️ Tech Stack & Skills</h2>
+  <p><strong>Full-Stack Developer & AI Enthusiast</strong></p>
+  <p>Building with Modern Technologies | Creating Innovative Solutions | Always Learning & Growing</p>
   
 </div>
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <hr>
   
 </div>
 
@@ -167,7 +172,7 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <hr>
   
 </div>
 
@@ -177,13 +182,15 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Innovative+Projects+%26+Solutions;AI-Powered+Applications;Mobile+%26+Web+Development;Open+Source+Contributions" alt="Featured Projects" />
+  <h2>🚀 Featured Projects</h2>
+  <p><strong>Innovative Projects & Solutions</strong></p>
+  <p>AI-Powered Applications | Mobile & Web Development | Open Source Contributions</p>
   
 </div>
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <hr>
   
 </div>
 
@@ -305,7 +312,7 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <hr>
   
 </div>
 
@@ -366,7 +373,7 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <hr>
   
 </div>
 
@@ -398,7 +405,7 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <hr>
   
 </div>
 
@@ -634,16 +641,14 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <hr>
   
 </div>
 
 ### **🤩 Did You Know?**
 
 <div align="center">
-  
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" height="300" />
-  
+  <h3>🎮 Fun Facts & Achievements</h3>
 </div>
 
 <div align="center">
@@ -690,7 +695,7 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <hr>
   
 </div>
 
@@ -726,7 +731,7 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <hr>
   
 </div>
 
@@ -736,6 +741,6 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
   
   *Tech Entrepreneur | Dilwado Founder | 400K+ YouTube Creator | Google Student Ambassador*
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <hr>
   
 </div>
