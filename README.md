@@ -27,7 +27,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/meakashu/meakashu/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -36,12 +36,12 @@
 ## 🎯 **About Me**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/meakashu/meakashu/main/assets/profile-header.gif" width="400" height="300" />
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" height="300" />
 </div>
 
 <div align="center">
   
-  ![About Me](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Passionate+Tech+Entrepreneur+from+Ranchi%2C+India;Building+Innovative+Solutions+for+Education;400K%2B+YouTube+Community+Builder;AI%2FML+Enthusiast+%26+Full-Stack+Developer;Making+Technology+Accessible+to+Everyone" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Passionate+Tech+Entrepreneur+from+Ranchi%2C+India;Building+Innovative+Solutions+for+Education;400K%2B+YouTube+Community+Builder;AI%2FML+Enthusiast+%26+Full-Stack+Developer;Making+Technology+Accessible+to+Everyone" alt="About Me" />
   
 </div>
 
@@ -55,7 +55,7 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
 </div>
 
@@ -66,7 +66,7 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/meakashu/meakashu/main/assets/developer.gif" width="200" height="200" />
+        <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="200" height="200" />
       </td>
       <td align="center" width="50%">
         <ul align="left">
@@ -726,7 +726,7 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
 </div>
 
@@ -736,6 +736,6 @@ Hey there! 👋 I'm **Akash Kumar Singh**, a passionate **tech entrepreneur** an
   
   *Tech Entrepreneur | Dilwado Founder | 400K+ YouTube Creator | Google Student Ambassador*
   
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
 </div>
